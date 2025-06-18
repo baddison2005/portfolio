@@ -1,7 +1,7 @@
 # Data Scientist · Astrophysicist
 
 ### Skills:
-## Programming Languages:
+#### Programming Languages:
 - Python (proficient) — Numpy, Pandas, SciPy, scikit-learn, Matplotlib, Bokeh, Seaborn, Jupiter notebook
 - R (familiar)
 - Modern Fortran (proficient)
@@ -9,13 +9,13 @@
 - HTML (familiar)
 - CSS (familiar)
 
-## Software/Platforms:
+#### Software/Platforms:
 - Git
 - Linux/Mac OS/Windows
 - Microsoft Office 365 suite
 - LaTeX
 
-## Data Analysis
+#### Data Analysis
 - Statistical analysis
 - Time series analysis
 - Machine Learning
