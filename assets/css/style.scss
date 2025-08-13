@@ -4,9 +4,8 @@
 /* Pull in the theme's CSS first (for theme: jekyll-theme-minimal) */
 @import "{{ site.theme }}";
 
-/* Your overrides */
-.wrapper {
-  max-width: 1500px !important;    /* adjust to taste */
-  padding-left: 32px;
-  padding-right: 32px;
+/* Widen layout on desktops; keep the good mobile rules intact */
+@media screen and (min-width: 961px) {
+  .wrapper { width: 1160px; }   /* total page width (tweak to taste) */
+  section  { width: 800px; }    /* right column width (1160 - 270 - ~90 gap) */
 }
