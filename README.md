@@ -1,3 +1,7 @@
+<style>
+  .wrapper { max-width: 1100px !important; padding-left: 32px; padding-right: 32px; }
+</style>
+
 <h1 style="text-align:center!important; color:#267CB9;">Data Scientist | Astrophysicist</h1>
 
 <p style="text-align:justify;">
