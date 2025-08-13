@@ -1,4 +1,4 @@
-# Data Scientist · Astrophysicist
+# Data Scientist  |  Astrophysicist
 
 ### Skills:
 #### Programming Languages:
