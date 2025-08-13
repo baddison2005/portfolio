@@ -1,4 +1,4 @@
-# <span style="color: DeepSkyBlue;">Data Scientist  |  Astrophysicist</span>
+# <span style="color: #267CB9;">Data Scientist  |  Astrophysicist</span>
 
 ### Skills:
 #### Programming Languages:
