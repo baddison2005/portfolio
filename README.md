@@ -30,8 +30,7 @@ I am a seasoned astrophysicist transitioning into data science, with 15 years of
 - Random Forest
 
 ## Professional Experience:
-**Postdoctoral Researcher @ Swinburne University of Technology (Nov 2022 — Dec 2023)**
-#### Postdoctoral Researcher @ Swinburne University of Technology (Nov 2022 — Dec 2023)
+**Postdoctoral Researcher @ Swinburne University of Technology (_Nov 2022 — Dec 2023_)**
 - Played an integral role in a research initiative measuring the fine structure constant to advance our knowledge of fundamental constants and cosmological models.
 - Implemented a Python analysis pipeline to measure the fine structure constant using a novel technique of comparing the spectra of similar stars (star-to-star comparison).
 - This resulted in reducing errors by 3 orders of magnitude compared to other approaches used for measuring the fine structure constant.
