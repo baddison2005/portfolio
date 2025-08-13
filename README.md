@@ -30,6 +30,11 @@ I am a seasoned astrophysicist transitioning into data science, with 15 years of
 - Random Forest
 
 ## Professional Experience:
+**Lecturer in Physics/Astronomy @ UniSQ (_Aug 2024 — Present_)**
+- Developed and delivered targeted assessments aligned with learning outcomes to evaluate student comprehension and engagement.
+- Led weekly tutorials that promote critical thinking, problem-solving, and analytical skills, preparing students for real-world applications as well as academic careers.
+- Collaborated with colleagues to continuously improve course content and delivery, ensuring a comprehensive educational experience at the University of Southern Queensland.
+
 **Postdoctoral Researcher @ Swinburne (_Nov 2022 — Dec 2023_)**
 - Played an integral role in a research initiative measuring the fine structure constant to advance our knowledge of fundamental constants and cosmological models.
 - Implemented a Python analysis pipeline to measure the fine structure constant using a novel technique of comparing the spectra of similar stars (star-to-star comparison).
