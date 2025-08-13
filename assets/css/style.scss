@@ -9,3 +9,68 @@
   .wrapper { width: 1160px; }   /* total page width (tweak to taste) */
   section  { width: 800px; }    /* right column width (1160 - 270 - ~90 gap) */
 }
+
+/* ===== Typography polish ===== */
+:root { --accent: #267CB9; }
+
+/* Comfortable base sizing */
+html { font-size: 18px; }             /* ~18px body text */
+body {
+  line-height: 1.7;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+               "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif,
+               "Apple Color Emoji","Segoe UI Emoji";
+}
+
+/* Title (your first H1) */
+.wrapper h1:first-child {
+  text-align: center;
+  color: var(--accent);
+  margin-top: 0;
+  margin-bottom: .5rem;
+  font-weight: 700;
+  letter-spacing: .2px;
+  text-wrap: balance;                  /* modern browsers: better multi-line titles */
+}
+
+/* Summary paragraph only (add class="summary" to that <p>) */
+.summary {
+  text-align: justify;
+  hyphens: auto;                       /* nicer justification */
+  overflow-wrap: anywhere;             /* long words don’t break layout */
+  max-width: 80ch;                     /* readable line length */
+  margin: 0 auto 1rem auto;            /* centers the block in the column */
+}
+
+/* General text rhythm */
+section p { margin: 0 0 1rem 0; }
+section h3, section h4 {
+  margin-top: 1.5rem;
+  margin-bottom: .5rem;
+  line-height: 1.3;
+  text-wrap: balance;
+}
+
+/* Lists: clearer spacing */
+section ul, section ol { margin: .5rem 0 1rem 1.25rem; }
+section li { margin: .25rem 0; }
+
+/* Links: accessible underline that feels nicer */
+a { text-underline-offset: 3px; text-decoration-thickness: 1.5px; }
+a:hover { color: var(--accent); }
+
+/* Code blocks: a touch smaller, easier to scan */
+pre, code { font-size: .95em; line-height: 1.5; }
+pre { overflow-x: auto; padding: .75rem 1rem; border-radius: 8px; }
+
+/* Images & tables behave nicely */
+section img { max-width: 100%; height: auto; border-radius: 6px; }
+table { font-size: .95em; }
+th, td { padding: .5rem .75rem; }
+
+/* Optional: on wider screens, allow slightly longer lines */
+@media (min-width: 961px) {
+  .summary { max-width: 85ch; }
+}
