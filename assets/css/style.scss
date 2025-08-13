@@ -6,7 +6,7 @@
 
 /* Your overrides */
 .wrapper {
-  max-width: 1100px;     /* adjust to taste */
+  max-width: 1100px !important;    /* adjust to taste */
   padding-left: 32px;
   padding-right: 32px;
 }
