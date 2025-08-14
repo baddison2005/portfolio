@@ -119,3 +119,9 @@ I am a seasoned astrophysicist transitioning into data science, with 15 years of
     <li>Practical Machine Learning</li>
   </ul> 
 </div>
+
+<hr style="height:4px; visibility:hidden;" />
+<div class="experience">
+  <h2 class="section-title">Publications</h2>
+  <p>I have led nine peer-reviewed scientific publications with over 250 total citations. I have also been a contributing author to 46 additional papers with 900+ total citations. Full list of my publications is available on <a href="https://ui.adsabs.harvard.edu/public-libraries/XhbAk3PwTNijX1IthW-EtA" target="_blank">NASA ADS</a>.</p>
+</div>
