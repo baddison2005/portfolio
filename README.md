@@ -88,6 +88,21 @@ I am a seasoned astrophysicist transitioning into data science, with 15 years of
 </div>
 
 <hr style="height:4px; visibility:hidden;" />
+<h3 class="section-title">Education</h3>
+<dl class="edu">
+  <div class="edu-row">
+    <dt><strong>PhD in Astrophysics</strong> — University of New South Wales, Sydney, Australia</dt>
+    <dd>2015</dd>
+  </div>
+  <div class="edu-row">
+    <dt><strong>BSc in Astrophysics & Mathematical Science</strong> — Florida Institute of Technology, Melbourne, Florida</dt>
+    <dd>2009</dd>
+  </div>
+</dl>
+
+
+
+
 <div class="experience">
   <h2 class="section-title">Education</h2>
   <p>PhD in Astrophysics, University of New South Wales, Sydney, Australia (<em>2015</em>)</p>
