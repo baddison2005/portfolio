@@ -4,7 +4,7 @@
 I am a seasoned astrophysicist transitioning into data science, with 15 years of experience in data analysis and Python programming to explore exoplanets and study fundamental constants. My expertise includes extracting insights from complex datasets using world-class telescopes, authoring over 50 scientific papers, and presenting research findings globally. I'm enthusiastic about applying this expertise to solve real-world data science challenges, driving innovation, and effectively communicating complex insights to both teams and clients.
 </p>
 
-<h3 class="section-title">Technical Skills</h3>
+<h2 class="section-title">Technical Skills</h2>
 <div class="skills">
 
   <h4>Programming Languages</h4>
