@@ -85,6 +85,10 @@ I am a seasoned astrophysicist transitioning into data science, with 15 years of
   <h2 class="section-title">Data Science Projects</h2>
   <h4 class="role">Predicting the Orbital Tilts of Exoplanets Using Machine Learning</h4>
   <p>I developed random forest regression and classification models using the Python library Scikit-learn to predict exoplanetary orbital obliquities (tilts). I worked with datasets containing exoplanet and host star properties, addressing challenges such as small sample size, data imbalance, and weak predictive features. This project provided me with skills in applying machine learning to real-world datasets. I documented the process through a series of blog posts, available <a href="https://www.astrobrett.com/data_science.html" target="_blank">here</a>, and shared the Jupyter notebooks with the models on <a href="https://github.com/baddison2005?tab=repositories" target="_blank">GitHub</a>.</p>
+  <p align="center">
+    <img src="assets/img/random_forest_model_demo.png" alt="Illustration of a random forest model consisting of N number of decision trees, with each tree consisting of M number of branches (or nodes), similar to how a forest consists of many trees and each tree consists of many branches. The nodes within each decision tree are used to make a prediction, and all of the predictions are averaged together to produce a final result. The red path taken in each decision tree is where specific criteria are met that result in a prediction. Image credit: Brett Addison." width="800" height="346" align="center">
+  </p>
+  <p align="justify"><h_small>Illustration of a random forest model consisting of N number of decision trees, with each tree consisting of M number of branches (or nodes), similar to how a forest consists of many trees and each tree consists of many branches. The nodes within each decision tree are used to make a prediction, and all of the predictions are averaged together to produce a final result. The red path taken in each decision tree is where specific criteria are met that result in a prediction. Image credit: Brett Addison.</h_small></p>
 </div>
 
 <hr style="height:4px; visibility:hidden;" />
@@ -95,19 +99,10 @@ I am a seasoned astrophysicist transitioning into data science, with 15 years of
     <dd>2015</dd>
   </div>
   <div class="edu-row">
-    <dt><strong>BSc in Astrophysics & Mathematical Science</strong> — Florida Institute of Technology, Melbourne, Florida</dt>
+    <dt><strong>BSc in Astrophysics \& Mathematical Sciences</strong> — Florida Institute of Technology, Melbourne, Florida</dt>
     <dd>2009</dd>
   </div>
 </dl>
-
-
-
-
-<div class="experience">
-  <h2 class="section-title">Education</h2>
-  <p>PhD in Astrophysics, University of New South Wales, Sydney, Australia (<em>2015</em>)</p>
-  <p>BSc in Astrophysics & Mathematics, Florida Institute of Technology, Melbourne, Florida (<em>2009</em>)</p>
-</div>
 
 <hr style="height:4px; visibility:hidden;" />
 <h2 class="section-title">Certifications</h2>
