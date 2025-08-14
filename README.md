@@ -5,6 +5,7 @@
 I am a seasoned astrophysicist transitioning into data science, with 15 years of experience in data analysis and Python programming to explore exoplanets and study fundamental constants. My expertise includes extracting insights from complex datasets using world-class telescopes, authoring over 50 scientific papers, and presenting research findings globally. I'm enthusiastic about applying this expertise to solve real-world data science challenges, driving innovation, and effectively communicating complex insights to both teams and clients.
 </p>
 
+<hr style="height:1px; visibility:hidden;" />
 <h2 class="section-title">Technical Skills</h2>
 <div class="skills">
   <h4>Programming Languages:</h4>
@@ -89,6 +90,8 @@ I developed random forest regression and classification models using the Python 
 <hr style="height:8px; visibility:hidden;" />
 <div class="experience">
 <h2 class="section-title">Education</h2>
+PhD in Astrophysics, University of New South Wales, Sydney, Australia (_2015_)
+BSc in Astrophysics & Mathematics, Florida Institute of Technology, Melbourne, Florida (_2009_)
 <h4 class="role">PhD in Astrophysics, University of New South Wales, Sydney, Australia (<em>2015</em>)</h4>
 <h4 class="role">BSc in Astrophysics & Mathematics, Florida Institute of Technology, Melbourne, Florida (<em>2009</em>)</h4>
 </div>
