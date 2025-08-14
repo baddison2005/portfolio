@@ -123,4 +123,14 @@ ul.chips li {
 .edu dt { font-weight: 400; }          /* reset default <dt> bold */
 .edu dt .degree { font-weight: 700; }  /* only the degree is bold */
 
-h_small { font-size: 0.7em; margin: 0 0 0px 0; padding: 0; color: darkslategray; line-height: 0.7; }
+/* Figures */
+.ds-figure { margin: .75rem 0 1rem; }
+.ds-figure img { display: block; margin: 0 auto; }  /* remove default inline gap */
+.ds-figure figcaption {
+  margin-top: .3rem;       /* ↓ gap image→caption */
+  font-size: .9em;
+  line-height: 1.25;       /* tighter lines, still readable */
+  color: #555;
+}
+.ds-figure figcaption .credit { color: #667; font-style: italic; }
+.ds-figure figcaption p { margin: .15rem 0; }  /* if you break the caption into lines/paras */
