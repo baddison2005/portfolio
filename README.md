@@ -46,7 +46,7 @@ I am a seasoned astrophysicist transitioning into data science, with 15 years of
 <hr style="height:6px; visibility:hidden;" />
 
 <div class="experience">
-
+<h2 class="section-title">Professional Experience</h2>
 <h4 class="role">Freelance Data Scientist @ Upwork (<em>Jul 2025 — Present</em>)</h4>
 <ul>
   <li>rovide end-to-end analytics for Upwork clients that includes cleaning complex datasets (pandas), building and validating ML models (scikit-learn), and delivering clear visualisations (Matplotlib/Bokeh) to support data-driven decisions.
