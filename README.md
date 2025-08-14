@@ -1,12 +1,12 @@
 <h1 style="color:#267CB9;">Data Scientist | Astrophysicist</h1>
 
-<hr style="height:9px; visibility:hidden;" />
+<hr style="height:8px; visibility:hidden;" />
 
 <p class="summary">
 I am a seasoned astrophysicist transitioning into data science, with 15 years of experience in data analysis and Python programming to explore exoplanets and study fundamental constants. My expertise includes extracting insights from complex datasets using world-class telescopes, authoring over 50 scientific papers, and presenting research findings globally. I'm enthusiastic about applying this expertise to solve real-world data science challenges, driving innovation, and effectively communicating complex insights to both teams and clients.
 </p>
 
-<br/>
+<hr style="height:8px; visibility:hidden;" />
 
 <h2 class="section-title">Technical Skills</h2>
 <div class="skills">
@@ -43,9 +43,12 @@ I am a seasoned astrophysicist transitioning into data science, with 15 years of
 
 </div>
 
-<br/>
+<hr style="height:8px; visibility:hidden;" />
 
 ## Professional Experience:
+**Freelance Data Scientist @ Upwork Platform (_Jul 2025 — Present_)**
+- Using Python to clean messy and complex data, apply machine learning algorithms, perform statistical analysis, and create data visualisations to extract useful insights and help clients make informed data-driven decisions.
+
 **Casual Lecturer in Physics/Astronomy @ University of Southern Queensland (_Aug 2024 — Present_)**
 - Developed and delivered targeted assessments aligned with learning outcomes to evaluate student comprehension and engagement.
 - Led weekly tutorials that promote critical thinking, problem-solving, and analytical skills, preparing students for real-world applications as well as academic careers.
