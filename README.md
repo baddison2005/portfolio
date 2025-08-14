@@ -95,11 +95,11 @@ I am a seasoned astrophysicist transitioning into data science, with 15 years of
 <h2 class="section-title">Education</h2>
 <dl class="edu">
   <div class="edu-row">
-    <dt><strong>PhD in Astrophysics</strong> — University of New South Wales, Sydney, Australia</dt>
+    <dt><span class="degree">PhD in Astrophysics</span> — University of New South Wales, Sydney, Australia</dt>
     <dd>2015</dd>
   </div>
   <div class="edu-row">
-    <dt><strong>BSc in Astrophysics &amp; Mathematical Sciences</strong> — Florida Institute of Technology, Melbourne, Florida</dt>
+    <dt><span class="degree">BSc in Astrophysics &amp; Mathematical Sciences</span> — Florida Institute of Technology, Melbourne, Florida</dt>
     <dd>2009</dd>
   </div>
 </dl>
