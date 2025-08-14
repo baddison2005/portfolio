@@ -119,5 +119,8 @@ ul.chips li {
 }
 .edu dt, .edu dd { margin: 0; }
 .edu dd { color: #666; font-size: .95em; white-space: nowrap; }
+/* Education (aligned dates) — fix bolding */
+.edu dt { font-weight: 400; }          /* reset default <dt> bold */
+.edu dt .degree { font-weight: 700; }  /* only the degree is bold */
 
 h_small { font-size: 0.7em; margin: 0 0 0px 0; padding: 0; color: darkslategray; line-height: 0.7; }
