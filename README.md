@@ -45,39 +45,6 @@ I am a seasoned astrophysicist transitioning into data science, with 15 years of
 
 <br/>
 
-
-
-
-
-
-
-## Technical Skills:
-#### Programming Languages:
-- Python (proficient) — Numpy, Pandas, SciPy, scikit-learn, Matplotlib, Bokeh, Seaborn, Jupyter notebook
-- R (familiar)
-- Modern Fortran (proficient)
-- SQL (familiar)
-- HTML (familiar)
-- CSS (familiar)
-
-#### Software/Platforms:
-- Git
-- Linux/Mac OS/Windows
-- Microsoft Office 365 suite
-- LaTeX
-
-#### Data Analysis
-- Statistical analysis
-- Time series analysis
-- Machine Learning
-- Data wrangling
-- Bayesian Statistics/MCMC
-- Monte Carlo Simulations
-- Data Visualisation
-- Random Forest
-
-<br/>
-
 ## Professional Experience:
 **Casual Lecturer in Physics/Astronomy @ University of Southern Queensland (_Aug 2024 — Present_)**
 - Developed and delivered targeted assessments aligned with learning outcomes to evaluate student comprehension and engagement.
