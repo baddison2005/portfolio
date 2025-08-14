@@ -111,3 +111,11 @@ ul.chips li {
 .experience .role + ul { margin-top: .25rem; } /* shrink gap to first bullet */
 .experience ul { margin: 0 0 .9rem 1.1rem; }   /* tighten list block */
 .experience li { margin: .22rem 0; }           /* tighter items */
+
+.edu { margin: .4rem 0 .75rem; }
+.edu-row {
+  display: flex; justify-content: space-between; align-items: baseline;
+  gap: 1rem; margin: .3rem 0;
+}
+.edu dt, .edu dd { margin: 0; }
+.edu dd { color: #666; font-size: .95em; white-space: nowrap; }
