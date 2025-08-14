@@ -47,7 +47,7 @@ I am a seasoned astrophysicist transitioning into data science, with 15 years of
 
 ## Professional Experience
 **Freelance Data Scientist @ Upwork Platform (_Jul 2025 — Present_)**
-- Using Python to clean messy and complex data, apply machine learning algorithms, perform statistical analysis, and create data visualisations to extract useful insights and help clients make informed data-driven business decisions.
+- Provide end-to-end analytics for Upwork clients that includes cleaning complex datasets (pandas), building and validating ML models (scikit-learn), and delivering clear visualisations (Matplotlib/Bokeh) to support data-driven decisions.
 
 **Casual Lecturer in Physics/Astronomy @ University of Southern Queensland (_Aug 2024 — Present_)**
 - Developed and delivered targeted assessments aligned with learning outcomes to evaluate student comprehension and engagement.
