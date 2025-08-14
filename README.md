@@ -82,18 +82,16 @@ I am a seasoned astrophysicist transitioning into data science, with 15 years of
 
 <hr style="height:4px; visibility:hidden;" />
 <div class="experience">
-<h2 class="section-title">Data Science Projects</h2>
-<h4 class="role">Predicting the Orbital Tilts of Exoplanets Using Machine Learning</h4>
-I developed random forest regression and classification models using the Python library Scikit-learn to predict exoplanetary orbital obliquities (tilts). I worked with datasets containing exoplanet and host star properties, addressing challenges such as small sample size, data imbalance, and weak predictive features. This project provided me with skills in applying machine learning to real-world datasets. I documented the process through a series of blog posts, available on my website, and shared the Jupyter notebooks with the models on GitHub.
+  <h2 class="section-title">Data Science Projects</h2>
+  <h4 class="role">Predicting the Orbital Tilts of Exoplanets Using Machine Learning</h4>
+  <p>I developed random forest regression and classification models using the Python library Scikit-learn to predict exoplanetary orbital obliquities (tilts). I worked with datasets containing exoplanet and host star properties, addressing challenges such as small sample size, data imbalance, and weak predictive features. This project provided me with skills in applying machine learning to real-world datasets. I documented the process through a series of blog posts, available on my website, and shared the Jupyter notebooks with the models on GitHub.</p>
 </div>
 
 <hr style="height:8px; visibility:hidden;" />
 <div class="experience">
-<h2 class="section-title">Education</h2>
-PhD in Astrophysics, University of New South Wales, Sydney, Australia (_2015_)
-BSc in Astrophysics & Mathematics, Florida Institute of Technology, Melbourne, Florida (_2009_)
-<h4 class="role">PhD in Astrophysics, University of New South Wales, Sydney, Australia (<em>2015</em>)</h4>
-<h4 class="role">BSc in Astrophysics & Mathematics, Florida Institute of Technology, Melbourne, Florida (<em>2009</em>)</h4>
+  <h2 class="section-title">Education</h2>
+  <p>PhD in Astrophysics, University of New South Wales, Sydney, Australia (<em>2015</em>)</p>
+  <p>BSc in Astrophysics & Mathematics, Florida Institute of Technology, Melbourne, Florida (<em>2009</em>)</p>
 </div>
 
 <hr style="height:8px; visibility:hidden;" />
