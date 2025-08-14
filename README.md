@@ -45,6 +45,24 @@ I am a seasoned astrophysicist transitioning into data science, with 15 years of
 
 <hr style="height:6px; visibility:hidden;" />
 
+<div class="experience">
+
+<h4 class="role">Freelance Data Scientist @ Upwork (<em>Jul 2025 — Present</em>)</h4>
+<ul>
+  <li>rovide end-to-end analytics for Upwork clients that includes cleaning complex datasets (pandas), building and validating ML models (scikit-learn), and delivering clear visualisations (Matplotlib/Bokeh) to support data-driven decisions.
+  </li>
+</ul>
+
+<h4 class="role">Casual Lecturer in Physics/Astronomy @ UniSQ (Aug 2024 — Present)</h4>
+<ul>
+  <li>...</li>
+</ul>
+
+</div>
+
+
+
+
 ## Professional Experience
 **Freelance Data Scientist @ Upwork Platform (_Jul 2025 — Present_)**
 - Provide end-to-end analytics for Upwork clients that includes cleaning complex datasets (pandas), building and validating ML models (scikit-learn), and delivering clear visualisations (Matplotlib/Bokeh) to support data-driven decisions.
