@@ -8,7 +8,6 @@ I am a seasoned astrophysicist transitioning into data science, with 15 years of
 <hr style="height:4px; visibility:hidden;" />
 <h2 class="section-title">Technical Skills</h2>
 <div class="skills">
-
   <h4>Programming Languages:</h4>
   <ul class="compact">
     <li>Python (proficient) — NumPy, Pandas, SciPy, scikit-learn, Matplotlib, Bokeh, Seaborn, Jupyter Notebook</li>
@@ -38,7 +37,6 @@ I am a seasoned astrophysicist transitioning into data science, with 15 years of
     <li>Data visualisation</li>
     <li>Random forest</li>
   </ul>
-
 </div>
 
 <hr style="height:4px; visibility:hidden;" />
@@ -89,7 +87,35 @@ I am a seasoned astrophysicist transitioning into data science, with 15 years of
 I developed random forest regression and classification models using the Python library Scikit-learn to predict exoplanetary orbital obliquities (tilts). I worked with datasets containing exoplanet and host star properties, addressing challenges such as small sample size, data imbalance, and weak predictive features. This project provided me with skills in applying machine learning to real-world datasets. I documented the process through a series of blog posts, available on my website, and shared the Jupyter notebooks with the models on GitHub.
 </div>
 
-<br/>
-<br/>
+<hr style="height:4px; visibility:hidden;" />
+<div class="experience">
+<h2 class="section-title">Education</h2>
+<h4 class="role">2015		PhD in Astrophysics, University of New South Wales, Sydney, Australia</h4>
+<h4 class="role">2009		BSc in Astrophysics & Mathematics, Florida Institute of Technology, Melbourne, Florida</h4>
+</div>
 
-To be finished later...
+<hr style="height:4px; visibility:hidden;" />
+<h2 class="section-title">Certifications</h2>
+<div class="skills">
+  <h4>Kaggle Data Science with Python course certificates:</h4>
+  <ul class="compact cols-2">
+    <li>Intro to Machine Learning</li>
+    <li>Intermediate Machine Learning</li>
+    <li>Feature Engineering</li>
+    <li>Intro to Deep Learning</li>
+    <li>Intro to SQL</li>
+    <li>Advanced SQL</li>
+  </ul>
+
+  <h4>Coursera Data Science Specialization using R course certificates:</h4>
+  <ul class="compact cols-2">
+    <li>The Data Scientist’s Toolbox</li>
+    <li>R Programming</li>
+    <li>Getting and Cleaning Data</li>
+    <li>Exploratory Data Analysis</li>
+    <li>Reproducible Research</li>
+    <li>Statistical Inference</li>
+    <li>Regression Models</li>
+    <li>Practical Machine Learning</li>
+  </ul> 
+</div>
