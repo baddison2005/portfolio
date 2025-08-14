@@ -86,7 +86,7 @@ I am a seasoned astrophysicist transitioning into data science, with 15 years of
   <h4 class="role">Predicting the Orbital Tilts of Exoplanets Using Machine Learning</h4>
   <p>I developed random forest regression and classification models using the Python library Scikit-learn to predict exoplanetary orbital obliquities (tilts). I worked with datasets containing exoplanet and host star properties, addressing challenges such as small sample size, data imbalance, and weak predictive features. This project provided me with skills in applying machine learning to real-world datasets. I documented the process through a series of blog posts, available <a href="https://www.astrobrett.com/data_science.html" target="_blank">here</a>, and shared the Jupyter notebooks with the models on <a href="https://github.com/baddison2005?tab=repositories" target="_blank">GitHub</a>.</p>
   <figure class="ds-figure">
-  <img src="/portfolio/assets/img/random_forest_diagram.png" alt="Random forest illustration">
+  <img src="/assets/img/random_forest_diagram.png" alt="Random forest illustration">
     <figcaption>
       Illustration of a random forest model consisting of N number of decision trees, with each tree consisting of M number of branches (or nodes), similar to how a forest consists of many trees and each tree consists of many branches. The nodes within each decision tree are used to make a prediction, and all of the predictions are averaged together to produce a final result. The red path taken in each decision tree is where specific criteria are met that result in a prediction. 
       <span class="credit">Image credit: Brett Addison.</span>
