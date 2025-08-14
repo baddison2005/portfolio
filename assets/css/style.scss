@@ -125,12 +125,15 @@ ul.chips li {
 
 /* Figures */
 .ds-figure { margin: .75rem 0 1rem; }
-.ds-figure img { display: block; margin: 0 auto; }  /* remove default inline gap */
+.ds-figure img { display: block; margin: 0 auto; width: 100%; height: auto; }
 .ds-figure figcaption {
-  margin-top: .3rem;       /* ↓ gap image→caption */
+  margin-top: .25rem;     /* reduce gap under image */
   font-size: .8em;
-  line-height: 1.25;       /* tighter lines, still readable */
+  line-height: 1.25;      /* tighter caption */
   color: #555;
+  max-width: 85ch;        /* readable line length */
+  margin-left: auto;
+  margin-right: auto;
 }
 .ds-figure figcaption .credit { color: #667; font-style: italic; }
 .ds-figure figcaption p { margin: .15rem 0; }  /* if you break the caption into lines/paras */
