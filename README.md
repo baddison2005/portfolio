@@ -84,17 +84,17 @@ I am a seasoned astrophysicist transitioning into data science, with 15 years of
 <div class="experience">
   <h2 class="section-title">Data Science Projects</h2>
   <h4 class="role">Predicting the Orbital Tilts of Exoplanets Using Machine Learning</h4>
-  <p>I developed random forest regression and classification models using the Python library Scikit-learn to predict exoplanetary orbital obliquities (tilts). I worked with datasets containing exoplanet and host star properties, addressing challenges such as small sample size, data imbalance, and weak predictive features. This project provided me with skills in applying machine learning to real-world datasets. I documented the process through a series of blog posts, available on my website, and shared the Jupyter notebooks with the models on GitHub.</p>
+  <p>I developed random forest regression and classification models using the Python library Scikit-learn to predict exoplanetary orbital obliquities (tilts). I worked with datasets containing exoplanet and host star properties, addressing challenges such as small sample size, data imbalance, and weak predictive features. This project provided me with skills in applying machine learning to real-world datasets. I documented the process through a series of blog posts, available <a href="https://www.astrobrett.com/data_science.html" target="_blank">here</a>, and shared the Jupyter notebooks with the models on <a href="https://github.com/baddison2005?tab=repositories" target="_blank">GitHub</a>.</p>
 </div>
 
-<hr style="height:8px; visibility:hidden;" />
+<hr style="height:4px; visibility:hidden;" />
 <div class="experience">
   <h2 class="section-title">Education</h2>
   <p>PhD in Astrophysics, University of New South Wales, Sydney, Australia (<em>2015</em>)</p>
   <p>BSc in Astrophysics & Mathematics, Florida Institute of Technology, Melbourne, Florida (<em>2009</em>)</p>
 </div>
 
-<hr style="height:8px; visibility:hidden;" />
+<hr style="height:4px; visibility:hidden;" />
 <h2 class="section-title">Certifications</h2>
 <div class="skills">
   <h4>Kaggle Data Science with Python course certificates:</h4>
