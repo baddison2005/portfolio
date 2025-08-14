@@ -8,9 +8,52 @@ I am a seasoned astrophysicist transitioning into data science, with 15 years of
 
 <br/>
 
+<h3 class="section-title">Technical Skills</h3>
+<div class="skills">
+
+  <h4>Programming Languages</h4>
+  <ul class="compact">
+    <li>Python (proficient) — NumPy, Pandas, SciPy, scikit-learn, Matplotlib, Bokeh, Seaborn, Jupyter Notebook</li>
+    <li>R (familiar)</li>
+    <li>Modern Fortran (proficient)</li>
+    <li>SQL (familiar)</li>
+    <li>HTML (familiar)</li>
+    <li>CSS (familiar)</li>
+  </ul>
+
+  <h4>Software/Platforms</h4>
+  <ul class="compact cols-2">
+    <li>Git</li>
+    <li>Linux / macOS / Windows</li>
+    <li>Microsoft 365</li>
+    <li>LaTeX</li>
+  </ul>
+
+  <h4>Data Analysis</h4>
+  <ul class="compact cols-2">
+    <li>Statistical analysis</li>
+    <li>Time series analysis</li>
+    <li>Machine learning</li>
+    <li>Data wrangling</li>
+    <li>Bayesian statistics / MCMC</li>
+    <li>Monte Carlo simulations</li>
+    <li>Data visualisation</li>
+    <li>Random forest</li>
+  </ul>
+
+</div>
+
+
+
+
+
+
+
+
+
 ## Technical Skills:
 #### Programming Languages:
-- Python (proficient) — Numpy, Pandas, SciPy, scikit-learn, Matplotlib, Bokeh, Seaborn, Jupiter notebook
+- Python (proficient) — Numpy, Pandas, SciPy, scikit-learn, Matplotlib, Bokeh, Seaborn, Jupyter notebook
 - R (familiar)
 - Modern Fortran (proficient)
 - SQL (familiar)
