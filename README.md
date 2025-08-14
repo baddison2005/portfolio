@@ -11,7 +11,7 @@ I am a seasoned astrophysicist transitioning into data science, with 15 years of
 <h2 class="section-title">Technical Skills</h2>
 <div class="skills">
 
-  <h4>Programming Languages</h4>
+  <h4>Programming Languages:</h4>
   <ul class="compact">
     <li>Python (proficient) — NumPy, Pandas, SciPy, scikit-learn, Matplotlib, Bokeh, Seaborn, Jupyter Notebook</li>
     <li>R (familiar)</li>
@@ -21,7 +21,7 @@ I am a seasoned astrophysicist transitioning into data science, with 15 years of
     <li>CSS (familiar)</li>
   </ul>
 
-  <h4>Software/Platforms</h4>
+  <h4>Software/Platforms:</h4>
   <ul class="compact cols-2">
     <li>Git</li>
     <li>Linux / macOS / Windows</li>
@@ -29,7 +29,7 @@ I am a seasoned astrophysicist transitioning into data science, with 15 years of
     <li>LaTeX</li>
   </ul>
 
-  <h4>Data Analysis</h4>
+  <h4>Data Analysis:</h4>
   <ul class="compact cols-2">
     <li>Statistical analysis</li>
     <li>Time series analysis</li>
@@ -45,7 +45,7 @@ I am a seasoned astrophysicist transitioning into data science, with 15 years of
 
 <hr style="height:8px; visibility:hidden;" />
 
-## Professional Experience:
+## Professional Experience
 **Freelance Data Scientist @ Upwork Platform (_Jul 2025 — Present_)**
 - Using Python to clean messy and complex data, apply machine learning algorithms, perform statistical analysis, and create data visualisations to extract useful insights and help clients make informed data-driven business decisions.
 
