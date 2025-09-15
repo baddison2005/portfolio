@@ -144,7 +144,7 @@ ul.chips li {
 .experience .role + p { margin-top: .2rem; }          /* shrink gap under role title */
 .experience p.adjunct {
   margin: .2rem 0 .35rem;                             /* small gap above/below */
-  font-size: .95em; color: #555; font-style: italic;
+  font-size: .95em; color: #555; font-style: bold;
 }
 
 /* If you used a subheading like <h5 class="subrole">Adjunct…</h5> */
@@ -156,5 +156,5 @@ ul.chips li {
 .experience .role + ul { margin-top: .35rem; }
 
 /* General list tightening inside Experience */
-.experience ul { margin: 0 0 .8rem 1.1rem; }          /* reduce bottom space a touch */
+.experience ul { margin: 0 0 .9rem 1.1rem; }          /* reduce bottom space a touch */
 .experience li { margin: .22rem 0; }
