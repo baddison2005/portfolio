@@ -116,7 +116,7 @@ ul.chips li {
 /* Adjunct line: bold like the role, slightly smaller, controlled spacing */
 .experience .adjunct {
   margin: .15rem 0 .55rem;   /* <-- a bit more space before bullets */
-  font-weight: 700;          /* bold */
+  font-weight: 600;          /* bold */
   color: #333;
   line-height: 1.25;
 }
@@ -133,11 +133,6 @@ ul.chips li {
 
 /* Ensure extra separation specifically when a list is followed by the next role */
 .experience ul + .role { margin-top: 1.2rem; }
-
-/*.experience .role { margin: .9rem 0 .25rem; line-height: 1.25; }*/
-/*.experience .role + ul { margin-top: .25rem; }*/ /* shrink gap to first bullet */
-/*.experience ul { margin: 0 0 .9rem 1.1rem; }*/   /* tighten list block */
-/*.experience li { margin: .22rem 0; }*/           /* tighter items */
 
 .edu { margin: .4rem 0 .75rem; }
 .edu-row {
