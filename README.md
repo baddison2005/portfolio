@@ -54,7 +54,7 @@ I am a seasoned astrophysicist transitioning into data science, with 15 years of
   <li>Collaborated with colleagues to continuously improve course content and delivery, ensuring a comprehensive educational experience at the University of Southern Queensland.</li>
 </ul>
 
-<h4 class="role">Postdoctoral Researcher @ Swinburne University of Technology (<em>Nov 2022 — Dec 2023</em>),                     Adjunct Researcher (<em>Dec 2023 — Present</em>)</h4>
+<h4 class="role">Postdoctoral Researcher @ Swinburne University of Technology (<em>Nov 2022 — Dec 2023</em>), </br>Adjunct Researcher (<em>Dec 2023 — Present</em>)</h4>
 <ul>
   <li>Played an integral role in a research initiative measuring the fine structure constant to advance our knowledge of fundamental constants and cosmological models.</li>
   <li>Implemented a Python analysis pipeline to measure the fine structure constant using a novel technique of comparing the spectra of similar stars (star-to-star comparison).</li>
@@ -63,7 +63,7 @@ I am a seasoned astrophysicist transitioning into data science, with 15 years of
   <li>This resulted in improving the accuracy of classification by 90% compared to other techniques.</li>
 </ul>
 
-<h4 class="role">Research Fellow @ University of Southern Queensland (<em>Aug 2018 — Jul 2022</em>),                               Adjunct Researcher (<em>Jul 2022 — Present</em>)</h4>
+<h4 class="role">Research Fellow @ University of Southern Queensland (<em>Aug 2018 — Jul 2022</em>), </br>Adjunct Researcher (<em>Jul 2022 — Present</em>)</h4>
 <ul>
   <li>Led ground-based observations of key exoplanet candidates using the MINERVA-Australis Telescope array.</li>
   <li>Collaborated with over 40 international researchers at MIT, Harvard, George Mason University, NASA, Sydney Uni, and UNSW to schedule and organise ground-based telescope observing.</li>
