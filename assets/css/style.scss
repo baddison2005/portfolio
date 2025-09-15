@@ -137,3 +137,24 @@ ul.chips li {
 }
 .ds-figure figcaption .credit { color: #667; font-style: italic; }
 .ds-figure figcaption p { margin: .15rem 0; }  /* if you break the caption into lines/paras */
+
+/* ===== Experience: tighten role → adjunct → bullets spacing ===== */
+
+/* If "Adjunct Researcher" is a paragraph right under the role */
+.experience .role + p { margin-top: .2rem; }          /* shrink gap under role title */
+.experience p.adjunct {
+  margin: .2rem 0 .35rem;                             /* small gap above/below */
+  font-size: .95em; color: #555; font-style: italic;
+}
+
+/* If you used a subheading like <h5 class="subrole">Adjunct…</h5> */
+.experience .subrole { margin: .2rem 0 .35rem; font-weight: 500; color: #555; }
+
+/* Tighten the gap from adjunct line to the first bullet list */
+.experience p.adjunct + ul,
+.experience .subrole + ul,
+.experience .role + ul { margin-top: .35rem; }
+
+/* General list tightening inside Experience */
+.experience ul { margin: 0 0 .8rem 1.1rem; }          /* reduce bottom space a touch */
+.experience li { margin: .22rem 0; }
